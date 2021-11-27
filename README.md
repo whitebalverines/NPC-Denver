@@ -26,6 +26,9 @@ Through a series of events, you can find out his secrets and why he's so hesitan
 
 - More events relating to a future project
 - Spouse patio
+- Fixed flower dance sprites
+- Be able to wander the forest in wolf form
+- Halloween costumes
 
 ### CONFIG OPTIONS: ###
 
