@@ -35,6 +35,7 @@ REGULAR OPTIONS
 - Allow costumes (true/false)
 - Which costume (random/werewolf/hotline miami/marlon)
 - Allow mask on Hotline Miami costume (true/false)
+- Marlon sprites (true/false) adds sprites/portraits so Marlon for events. Set to false if using SVE or a mod that makes Marlon "real"
 
 FEM!DENVER OPTIONS
 
@@ -43,6 +44,7 @@ FEM!DENVER OPTIONS
 - Allow costumes (true/false)
 - Which costume (random/werewolf/hotline miami/marlon)
 - Allow mask on Hotline Miami costume (true/false)
+- Marlon sprites (true/false) adds sprites/portraits so Marlon for events. Set to false if using SVE or a mod that makes Marlon "real"
 
 KIDS
 
