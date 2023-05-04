@@ -1,3 +1,5 @@
+### CURRENTLY BROKEN, I PROMISE HE WILL BE UPDATED SOMEDAY ###
+
 Denver is from the bustling city of Opportunity. After having a disagreement with his mother, Alison, he decided to pack up and move to the idyllic Pelican Town to reconnect with his uncle Marlon.
 
 Naturally, Marlon wants Denver to become a great monster hunter like himself, but Denver is less than interested in things like that... in fact, the topic hits a bit close to home.
